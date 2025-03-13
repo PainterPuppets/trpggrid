@@ -21,7 +21,7 @@ export function GameGrid({ initialCells, onUpdateCells }: GameGridProps) {
   
   // 全局配置状态
   const [globalConfig, setGlobalConfig] = useState<GlobalConfig>({
-    mainTitle: "游戏生涯个人喜好表"
+    mainTitle: "跑团生涯个人喜好表"
   })
   
   // 搜索与编辑状态

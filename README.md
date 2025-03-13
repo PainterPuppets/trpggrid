@@ -1,6 +1,6 @@
-# GameGrid - 游戏生涯个人喜好表
+# TRPGGrid - 跑团生涯个人喜好表
 
-GameGrid是一个简单的Web应用，让您可以创建和分享个人游戏喜好网格。通过简单的界面，您可以排列游戏，展示您的游戏品味。
+TRPGGrid 是一个简单的Web应用，让您可以创建和分享个人游戏喜好网格。通过简单的界面，您可以排列游戏，展示您的游戏品味。
 
 ## 项目特点
 
@@ -67,7 +67,6 @@ BANGUMI_USER_AGENT=your_user_agent
 ## 致谢
 
 - 特别感谢[游戏生涯个人喜好表（已下线）](https://gamegrid.azurewebsites.net)项目的灵感，本项目是对该创意的致敬
-- 感谢 [SteamGridDB](https://www.steamgriddb.com/) 和 [Bangumi](https://bgm.tv/) 提供的API支持
 
 ## 许可证
 

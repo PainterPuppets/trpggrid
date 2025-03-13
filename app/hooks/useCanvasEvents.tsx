@@ -211,7 +211,7 @@ export function useCanvasEvents({
       const dataUrl = canvas.toDataURL("image/png")
 
       // 获取主标题（从localStorage）
-      let fileName = "游戏生涯个人喜好表.png";
+      let fileName = "跑团生涯个人喜好表.png";
       try {
         const savedConfig = localStorage.getItem('gameGridGlobalConfig');
         if (savedConfig) {

@@ -8,8 +8,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "游戏生涯个人喜好表",
-  description: "创建你的游戏生涯个人喜好表",
+  title: "跑团生涯个人喜好表",
+  description: "创建你的跑团生涯个人喜好表",
 }
 
 export default function RootLayout({
